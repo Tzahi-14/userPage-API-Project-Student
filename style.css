@@ -81,7 +81,7 @@ ul {
 }
 
 .buttons {
-    position: fixed;
+    /* position: fixed; */
     bottom: 1vw;
     left: 1vw;
 }
